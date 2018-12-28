@@ -1,5 +1,11 @@
 # Sample C++ Assignment
 
+**Name:**
+
+**Student ID Number:**
+
+CSS xxx <Instructor name here>
+
 Using the provided sample files, perform the following tasks:
 
 1. Modify the program so that it prints your full name and student ID to STDOUT.
