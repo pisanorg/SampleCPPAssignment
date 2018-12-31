@@ -42,7 +42,16 @@ valgrind ./hello
 
 # Submission Instructions
 
-Before midnight on the due date, ensure that your changes have been successfully committed to the `master` branch
-of your **private** assignment repo on GitHub.
+Before midnight on the due date, ensure that your changes have been successfully committed to the `master` branch.
+
+If your professor has specified, you may have to turn in your last commit hash into Canvas.
+This can be found on GitHub, or you can use the following command:
+
+```console
+$ git rev-parse HEAD
+c4c3bac64fe3178e5aee4dbe1ec101203a05d4e2
+```
+
+In addition, include a copy of your execution output (either from `screen` or copied and pasted) into a file.
 
 **Any code that is pushed after the due date will not be accepted.**
